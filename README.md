@@ -2,6 +2,6 @@
 
 ## First Steps
 
-This section is supposted to contain some first steps material.
+This section gives an overview of the basic commands.
 
 Add a list of all diffrent git commands and their purpose.
